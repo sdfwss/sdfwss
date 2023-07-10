@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @sdfwss
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m <s>@sdfwss</s>
+- 👀 I’m interested in I **DON'T KNOW**
+- 🌱 I’m currently learning **I DON'T KNOW**
+- 💞️ I’m looking to collaborate on **I DON'T KNOW**
+- 📫 How to reach me **I DON'T KNOW**
 
 <!---
 sdfwss/sdfwss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
